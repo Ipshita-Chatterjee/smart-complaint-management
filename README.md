@@ -45,7 +45,7 @@
 
 # ▶ Running the Project
 
-♥ Clone the repository: git clone https://github.com/your-username/smart-complaint-management-system.git </br>
+♥ Clone the repository: git clone https://github.com/ipshita-chatterjee/smart-complaint-management-system.git </br>
 ♥ Navigate to the project folder: cd smart-complaint-management-system </br>
 ♥ Install dependencies: </br>
   ♥ pip install -r requirements.txt (Flask) </br>
